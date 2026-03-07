@@ -1,9 +1,9 @@
-## 🌟 Overview
+# 🌟 Overview
 Welcome to my professional portfolio!
 I am Muluwerk Derebe, a Data Analyst and former University Lecturer with over a decade of experience in statistical research, data modeling, and analytical instruction. My work bridges academic rigor with modern business intelligence practices, supported by hands‑on expertise in Python, SQL, Power BI, Tableau, MySQL, AWS, and advanced statistical software.
 This portfolio showcases my projects, educational background, professional experience, and certifications, reflecting my transition from academia to applied data analytics and business intelligence.
 
-## 🎯 What You’ll Find in This Portfolio
+# 🎯 What You’ll Find in This Portfolio
 🔹 Projects
 A curated selection of analytics and BI projects demonstrating:
 - Data cleaning, modeling, and transformation
@@ -74,4 +74,5 @@ Developed analytical talent through applied training in modern tools for data‑
 🙏 Acknowledgment
 Thank you for visiting my portfolio.
 I appreciate your time and look forward to contributing my analytical, technical, and research expertise to your team.
+
 
