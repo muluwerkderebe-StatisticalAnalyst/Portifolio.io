@@ -1,84 +1,89 @@
-🌟 Overview
-Welcome to my professional portfolio!
-I am Muluwerk Derebe, a Data Analyst and former University Lecturer with over a decade of experience in statistical research, data modeling, and analytical instruction. 
-My work bridges academic knowledge with modern business intelligence practices, supported by skill based courses in Python, SQL, Power BI, Tableau, MySQL, AWS, and advanced statistical software.
-This portfolio showcases
-1. my projects, 
-2. educational background, 
-3. professional experience, and 
-4. certifications, reflecting my transition from academia to applied data analytics and business intelligence.
+📊 Muluwerk Derebe – Data Analyst & Business Intelligence Professional
+Welcome to my portfolio!
+I am Muluwerk Derebe, a Data Analyst and former University Lecturer with over ten years of experience in statistical research, data modeling, and analytical instruction. My work blends academic rigor with modern business intelligence tools, enabling data‑driven insights and practical business solutions.
 
-🎯 What You’ll Find in This Portfolio
-🔹 Projects
-A curated selection of analytics and BI projects demonstrating:
-- Data cleaning, modeling, and transformation
-- Dashboard development (Power BI & Tableau)
-- Statistical modeling and machine learning
-- End‑to‑end BI workflows and reporting
-Explore them here:
-👉 Projects Section on Portfolio Website
+🚀 Portfolio Website
+🔗 Live Portfolio:
+https://muluwerkderebe-statisticalanalyst.github.io/Portifolio.io/elements.html
 
-🔹 Educational Background
-- Postgraduate Certificate – Business Intelligence System Infrastructure, Algonquin College, Ottawa
-- MSc in Biostatistics – Bahir Dar University
-- BSc in Statistics – University of Gondar
-My academic training strengthened my foundation in statistical theory, research methodology, and computational analytics.
+📁 About This Portfolio
+This portfolio showcases my journey from academia to applied data analytics. It includes:
+- End‑to‑end data analysis projects
+- Power BI and Tableau
+Absolutely — here is a clean, professional, and recruiter‑friendly README.md written in polished Markdown. It’s designed specifically for your portfolio website and your professional identity as a Data Analyst & BI Specialist.
+You can copy‑paste this directly into a  file on GitHub.
 
-🔹 Professional Experience
-Co‑op Student – Advanced Technology Department (Since January 2026)
-Hands‑on training in:
-- Data modeling & database systems
-- Cloud technologies (AWS)
-- Power BI, Tableau, MySQL, Python
-- Machine learning & data integration pipelines
-Lecturer & Researcher – Bahir Dar University (2018–2023)
-- Taught Regression Analysis, Probability Theory, Statistical Computing
-- Served on curriculum and graduate admissions committees
-- Published peer‑reviewed research
-- Trained postgraduate students in programming & analytics
-Lecturer – Adigrat University (2013–2018)
-- Taught Introduction to Statistics, Applied Regression
-- Designed quizzes, labs, and assignments using R & Python
-- Provided academic support to 100+ students per semester
+📊 Muluwerk Derebe – Data Analyst & Business Intelligence Professional
+Welcome to my portfolio!
+I am Muluwerk Derebe, a Data Analyst and former University Lecturer with over ten years of experience in statistical research, data modeling, and analytical instruction. My work blends academic rigor with modern business intelligence tools, enabling data‑driven insights and practical business solutions.
 
-🔹 Seminars & Paper Presentations
-I have presented research at major international and national conferences, including:
-- 64th ISI World Statistics Congress – Ottawa, Canada
-- 2023 IAOS‑ISI Conference – Zambia
-- Annual Science Conference (ASC‑2021)
-- Bahir Dar University Research Seminars
+🚀 Portfolio Website
+🔗 Live Portfolio:
+https://muluwerkderebe-statisticalanalyst.github.io/Portifolio.io/elements.html
 
-🔹 Research & Community Service
-- Training on research report writing, citation, and document management
-- Statistical modeling for non‑communicable disease studies in Ethiopia
-- Organizing academic conferences and professional events
-- Delivering community‑focused statistical and analytical training
+📁 About This Portfolio
+This portfolio showcases my journey from academia to applied data analytics. It includes:
+• 	End‑to‑end data analysis projects
+• 	Power BI and Tableau dashboards
+• 	Python and SQL analytics workflows
+• 	Research contributions and academic achievements
+• 	Professional experience and certifications
 
-🛠️ Technical Skills
+🧠 Core Competencies
+Data & BI Tools
+• 	Power BI
+• 	Tableau
+• 	MySQL
+• 	Python (pandas, numpy, matplotlib, seaborn)
+• 	Advanced Excel
 Statistical Software
-- SPSS
-- SAS
-- R
-- STATA
-Data Science & BI Tools
-- Power BI
-- Tableau
-- MySQL
-- Python
+• 	SPSS
+• 	SAS
+• 	R
+• 	STATA
+Data Skills
+• 	Data cleaning & transformation
+• 	Data modeling & database design
+• 	ETL workflows
+• 	Dashboard development
+• 	Statistical modeling & machine learning fundamentals
+
+🎓 Education
+• 	Postgraduate Certificate – Business Intelligence System Infrastructure, Algonquin College
+• 	MSc in Biostatistics – Bahir Dar University
+• 	BSc in Statistics – University of Gondar
+
+💼 Professional Experience
+Co‑op Student – Advanced Technology Department (2026–Present)
+• 	Data modeling, database systems, and cloud technologies
+• 	Power BI, Tableau, MySQL, Python
+• 	Machine learning and data integration pipelines
+Lecturer & Researcher – Bahir Dar University (2018–2023)
+• 	Taught Regression Analysis, Probability Theory, Statistical Computing
+• 	Published peer‑reviewed research
+• 	Served on curriculum and graduate admissions committees
+Lecturer – Adigrat University (2013–2018)
+• 	Taught Introduction to Statistics and Applied Regression
+• 	Designed quizzes, labs, and assignments using R & Python
+• 	Supported 100+ students per semester
+
+📝 Research & Presentations
+I have presented research at major conferences, including:
+• 	64th ISI World Statistics Congress – Ottawa
+• 	2023 IAOS‑ISI Conference – Zambia
+• 	Annual Science Conference (ASC‑2021)
+• 	Bahir Dar University Research Seminars
 
 🏅 Certificates
-This portfolio includes a gallery of certificates related to:
-- Software training delivery
-- Academic committee participation
-- Professional development workshops
+This portfolio includes certificates related to:
+• 	Software training delivery
+• 	Academic committee participation
+• 	Professional development workshops
 
-💬 Personal Quote
-Developed analytical talent through applied training in modern tools for data‑driven insights.
-
-
-🙏 Acknowledgment
-Thank you for visiting my portfolio.
-I appreciate your time and look forward to contributing my analytical, technical, and research expertise to your team.
+✨ Professional Philosophy
 
 
-
+📬 Contact
+If you’d like to collaborate or learn more about my work:
+• 	Email: muluwerkderebe@gmail.com
+• 	LinkedIn: (Add your link here if you want me to format it nicely)
