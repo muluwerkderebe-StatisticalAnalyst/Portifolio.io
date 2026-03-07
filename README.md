@@ -1,4 +1,4 @@
-#  📊 Muluwerk Derebe – Data Analyst & Business Intelligence
+#  📊 Muluwerk Derebe – Data Scientist Portfolio
 ### Welcome to my portfolio!
 I am Muluwerk Derebe, a Data Analyst and former University Lecturer with over ten years of experience in statistical research, data modeling, and analytical instruction. My work blends academic rigor with modern business intelligence tools, enabling data‑driven insights and practical business solutions.
 
@@ -68,3 +68,4 @@ This portfolio includes certificates related to:
 # 📬 Contact
 * Email: muluwerkderebe@gmail.com/ dere0027@algonquinlive.com
 * LinkedIn: https://www.linkedin.com/in/muluwerk-derebe-b959243a6/
+
